@@ -1,7 +1,7 @@
 // functions/api/daftar-user.js
 // Endpoint: /api/daftar-user  (POST)
 
-const DEFAULT_REPO = "mrdickymiswardi/server";
+const DEFAULT_REPO = "yanwarmtb/server";
 const DEFAULT_PATH = "user.json";
 
 const enc = new TextEncoder();
