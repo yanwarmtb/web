@@ -2,7 +2,7 @@
 // Endpoint: POST /api/daftarNisWali
 // Validasi admin via secureWali.json, lalu tambah user {username,password,kelas,nis} ke user.json
 
-const DEFAULT_REPO   = "mrdickymiswardi/server";
+const DEFAULT_REPO   = "yanwarmtb/server";
 const DEFAULT_BRANCH = "main";
 const SECURE_PATH    = "secureWali.json";
 const USERS_PATH     = "user.json";
