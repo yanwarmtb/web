@@ -8,7 +8,7 @@ const CORS = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization, Range",
 };
 
-const OWNER_REPO = "mrdickymiswardi/server";
+const OWNER_REPO = "yanwarmtb/server";
 const BRANCH = "main";
 const DIR = "audio";
 
