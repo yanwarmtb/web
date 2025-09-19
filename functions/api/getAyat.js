@@ -18,7 +18,7 @@ export async function onRequest({ env, request }) {
     });
   }
 
-  const apiUrl = "https://api.github.com/repos/mrdickymiswardi/server/contents/getAyat.json";
+  const apiUrl = "https://api.github.com/repos/yanwarmtb/server/contents/getAyat.json";
 
   try {
     const response = await fetch(apiUrl, {
