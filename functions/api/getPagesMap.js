@@ -8,7 +8,7 @@ const CORS = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-const OWNER_REPO = "mrdickymiswardi/server";
+const OWNER_REPO = "yanwarmtb/server";
 const FILE_PATH = "getPagesMap.json";
 const BRANCH = "main";
 
