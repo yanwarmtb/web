@@ -7,7 +7,7 @@ const CORS = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-const GITHUB_REPO = "mrdickymiswardi/server";
+const GITHUB_REPO = "yanwarmtb/server";
 const FILE_PATH   = "autoUpdateAllJuz.json"; // ganti jika file di subfolder
 const BRANCH      = "main";
 
