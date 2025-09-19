@@ -8,7 +8,7 @@ const CORS = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-const GITHUB_REPO = "mrdickymiswardi/server";
+const GITHUB_REPO = "yanwarmtb/server";
 const FILE_PATH   = "autoUpdateAllJuzMur.json"; // khusus Murajaah
 const BRANCH      = "main";
 
