@@ -7,7 +7,7 @@ const CORS = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-const OWNER_REPO = "mrdickymiswardi/server";
+const OWNER_REPO = "yanwarmtb/server";
 const BRANCH = "main";
 
 const GITHUB_API = `https://api.github.com/repos/${OWNER_REPO}/contents?ref=${encodeURIComponent(BRANCH)}`;
