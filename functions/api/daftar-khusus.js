@@ -1,7 +1,7 @@
 // functions/api/daftar-khusus.js
 // Endpoint: /api/daftar-khusus  (POST)
 
-const DEFAULT_REPO   = "mrdickymiswardi/server";
+const DEFAULT_REPO   = "yanwarmtb/server";
 const DEFAULT_SECURE = "secure.json";
 const DEFAULT_USERS  = "user.json";
 const DEFAULT_BRANCH = "main";
