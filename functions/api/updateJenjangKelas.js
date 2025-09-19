@@ -10,7 +10,7 @@ const CORS = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-const API_BASE = "https://api.github.com/repos/mrdickymiswardi/server/contents";
+const API_BASE = "https://api.github.com/repos/yanwarmtb/server/contents";
 const BRANCH   = "main";
 
 const ghHeaders = (token) => ({
